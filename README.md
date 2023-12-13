@@ -1,16 +1,23 @@
-### Hi there 👋
+# About me:
 
-<!--
-**WarrenTumolva/WarrenTumolva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Warren Angelo Tumolva, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
-Here are some ideas to get you started:
+## Education:
+- **BS Information Technology**
+  - New Era University
+  - 2021-Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certification:
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=910C984A34FFD14B0C0A4E2F3FE7F73E699DFBB4CC46C24BE9278894741A0D7D)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C46ED9EB13F67D68C5C57DE40B8B1A51DE7AB9485AE5A7408C7DCBEB7D1DCCBD)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=81BDF0C3A6919CEF54CC3770E91C105AEA7DC39A0543A1BB8C40E9AE5F842125)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/279786e90d674da48fe187a8ab681bbd)
+
+## Skill sets:
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Contact:
+- **LinkedIn:** [LinkedIn Profile](Your_LinkedIn_Profile_Link)
+- **Email:** juandelacruz@gmail.com
