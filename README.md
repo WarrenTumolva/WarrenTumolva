@@ -19,5 +19,4 @@ I am Warren Angelo Tumolva, with a flair for coding and database management skil
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact:
-- **LinkedIn:** [LinkedIn Profile](Your_LinkedIn_Profile_Link)
-- **Email:** juandelacruz@gmail.com
+- **Email:** tumolvawarrenangelo@gmail.com
